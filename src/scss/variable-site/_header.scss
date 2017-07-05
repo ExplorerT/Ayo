@@ -1,0 +1,80 @@
+@import "headings";
+
+.browserupgrade {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+body {
+  background: #fafafa;
+  font-family: 'Raleway', sans-serif;
+  color: #333;
+
+}
+
+.hero-unit {
+  //margin: 50px auto 0 auto;
+  width: 100%;
+  background-color: #eee;
+  border-radius: 6px;
+  //display: flex;
+  height: 500px;
+  padding-top: 120px;
+  background-color: linear-gradient(#2d4c68, #14ACAF);
+      background-image: linear-gradient(rgb(45, 76, 104), rgb(10, 172, 175));
+      background-position-x: initial;
+      background-position-y: initial;
+      background-size: initial;
+      background-repeat-x: initial;
+      background-repeat-y: initial;
+      background-attachment: initial;
+      background-origin: initial;
+      background-clip: initial;
+      background-color: initial;
+        //font-family: $font_montserrat;
+  //padding: 60px;
+    img {
+      //width: 400px;
+      //width: 280px;
+      height: 300px;
+      border-radius: 250px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto
+
+    }
+
+    .intro h1, h2 {
+      //font-size: 28px;
+      
+      //font-size: 90px;
+      //padding-top: 60px 80px -10px 0;
+      font-weight: 100;
+      //line-height: 30px;
+      line-height: 0.9;
+      letter-spacing: -1px;
+      text-align: center;
+      //margin-right: auto;
+      color: #fff;
+      //padding-right: 80px;
+      //font-family: $font_montserrat;
+
+    }
+    h2{
+      margin-top: -10px;
+      font-size: 2.0em;
+    }
+
+}
+
+
+
+/*.hero-unit h1 {
+  font-size: 90px;
+  line-height: 1;
+  letter-spacing: -1px;
+  text-align: center;
+}
+*/
